@@ -10,8 +10,8 @@ Features
 - High-score saving across game sessions
 - Wraparound movement
 - Self-collision detection
-- Pause and resume
-- Game-over screen and restart option
+- Pause and resume (Press p) 
+- Game-over screen and restart option(Press r) 
 
 Technologies Used
 
