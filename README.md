@@ -29,7 +29,7 @@ How to Run
 
 3. Run the game:
    
-   "python Snake.py"
+   "Snake.py"
 
 What I Learned
 
